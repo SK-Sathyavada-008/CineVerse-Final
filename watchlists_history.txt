@@ -1,0 +1,24 @@
+# CineVerse User Watchlists and Watch Histories
+# Format: USER <username> / WATCHLIST <ids> / HISTORY <ids>
+# -----------------------------------------------------------------------
+USER sk
+WATCHLIST 17
+HISTORY 15
+USER Bhavya
+WATCHLIST 
+HISTORY 
+USER Kruthika
+WATCHLIST 2,24,25
+HISTORY 21
+USER Arnavi
+WATCHLIST 10,0,7
+HISTORY 
+USER Gayathri
+WATCHLIST 1,9,10,14,15
+HISTORY 27
+USER Riddhi
+WATCHLIST 1,9
+HISTORY 10
+USER Bhavitha
+WATCHLIST 
+HISTORY 
